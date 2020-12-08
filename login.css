@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(110, 91, 91)
+}
+
+div{
+    
+    
+    text-align: center;
+}
+
+div h2{
+        margin-bottom :100px;
+        margin-top: 40px;
+}
+
+div h3{
+    margin-top:80px;
+    margin-right:20px;
+}
+
+a{
+    margin-top:80px;
+    color:white;
+    margin-right:30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+a:hover{
+    color:rgb(53, 207, 53);
+    transition: color 300ms;
+}
+
+.field{
+    margin:10px;
+    margin-right: 20px;
+}
+button{
+    margin:10px;
+    margin-bottom:30px;
+    margin-right:30px;
+}

@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(110, 91, 91)
+}
+
+.erro{
+    color:red;
+    text-align: center;
+}
+
+#principal{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+ 
+    margin:30px;
+}
+
+#h3_final{
+    padding:30px;
+}
+
+a{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+a:hover{
+    color:rgb(53, 207, 53);
+    transition: color 300ms;
+}
+
+.form_field{
+    margin-right:10px;
+}
